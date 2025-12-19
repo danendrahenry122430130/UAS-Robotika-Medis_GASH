@@ -29,34 +29,23 @@
 
 > **Lihat sistem bekerja secara real-time!**
 
+### 🎬 Klik tombol di bawah untuk menonton video:
+
 <div align="center">
+  
+[![Tonton Video Demonstrasi](https://img.shields.io/badge/▶️_TONTON_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/raw/main/Video%20Demonstrasi%20Alat.mp4)
 
-https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/assets/your-user-id/video-demonstrasi.mp4
-
-**📥 Jika video tidak tampil, download di sini:** [Video Demonstrasi Alat.mp4](https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/raw/main/Video%20Demonstrasi%20Alat.mp4)
+**📥 Klik tombol di atas untuk download dan tonton video**
 
 </div>
 
 **📹 Video demonstrasi menampilkan:**
-- ✅ Proses instalasi dan setup ROS2 dan Arduino
+- ✅ Proses instalasi dan setup
 - ✅ Menjalankan publisher dan subscriber nodes
 - ✅ Interaksi keyboard dengan buzzer real-time
-- ✅ Testing sistem dan troubleshooting
+- ✅ Troubleshooting common issues
 
----
-
-### 🎬 Cara Embed Video yang Benar di GitHub:
-
-Untuk video tampil langsung di README, ikuti langkah ini:
-
-1. **Buka issue baru** di repository: https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/issues/new
-2. **Drag & drop** file `Video Demonstrasi Alat.mp4` ke text box issue
-3. GitHub akan upload dan generate URL seperti: `https://github.com/user/repo/assets/123456/video.mp4`
-4. **Copy URL** yang muncul (jangan submit issue, bisa di-close)
-5. **Paste URL** itu ke README (ganti line yang ada `your-user-id` di atas)
-6. Video akan **auto-play** di README! 🎉
-
-> **💡 Alternative:** Upload video ke YouTube (unlisted) untuk embed yang lebih reliable
+📁 **File:** [`Video Demonstrasi Alat.mp4`](https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/raw/main/Video%20Demonstrasi%20Alat.mp4) - Klik untuk download (2.1 MB)
 
 ---
 
