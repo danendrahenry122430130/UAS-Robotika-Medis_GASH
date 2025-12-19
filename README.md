@@ -29,20 +29,29 @@
 
 > **Lihat sistem bekerja secara real-time!**
 
+### 📹 Video Preview
+
+<div align="center">
+  
+  **Klik gambar di bawah untuk menonton video demonstrasi:**
+  
+  [![Video Demo](https://img.youtube.com/vi/YOUTUBE_ID/maxresdefault.jpg)](https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/raw/main/Video%20Demonstrasi%20Alat.mp4)
+  
+  *Klik untuk download dan tonton video (2.1 MB)*
+  
+</div>
+
 **📹 Video demonstrasi menampilkan:**
-- ✅ Proses instalasi dan setup
+- ✅ Proses instalasi dan setup ROS2 dan Arduino
 - ✅ Menjalankan publisher dan subscriber nodes
 - ✅ Interaksi keyboard dengan buzzer real-time
-- ✅ Troubleshooting common issues
+- ✅ Testing sistem dan troubleshooting
 
-**🎬 Cara menonton video:**
-1. Download file `Video Demonstrasi Alat.mp4` dari repository
-2. Atau kunjungi: [Releases](https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/releases) untuk download
-3. Atau clone repository dan buka file secara lokal
+**🎬 Alternatif menonton:**
+- **Download langsung:** [Video Demonstrasi Alat.mp4](https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/raw/main/Video%20Demonstrasi%20Alat.mp4)
+- **Clone repository** untuk akses offline
 
-📁 **File:** `Video Demonstrasi Alat.mp4` (tersedia di repository)
-
-> **Note:** GitHub tidak support video preview langsung. Untuk menonton, silakan download file atau lihat di website lokal.
+> **💡 Tips:** Upload video ke YouTube untuk auto-play di README, atau convert ke GIF untuk preview langsung!
 
 ---
 
