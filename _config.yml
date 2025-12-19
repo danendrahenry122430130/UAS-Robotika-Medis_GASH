@@ -1,0 +1,22 @@
+theme: jekyll-theme-cayman
+title: Sistem Kendali Buzzer Berbasis ROS2
+description: Proyek Robotika Medis - Teknik Biomedis
+show_downloads: false
+
+# GitHub metadata
+github:
+  is_project_page: true
+  repository_name: robotika-medis-buzzer-ros2
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Installation
+    url: /docs/INSTALLATION
+  - title: Quick Start
+    url: /docs/QUICKSTART
+  - title: Diagrams
+    url: /docs/DIAGRAMS
+  - title: FAQ
+    url: /docs/FAQ

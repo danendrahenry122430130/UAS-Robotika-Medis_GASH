@@ -1,0 +1,37 @@
+# .gitignore untuk ROS2 Project
+
+# ROS2 Build files
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.bak
+
+# Arduino
+*.hex
+*.elf
+*.bin
+
+# Temporary files
+*.log
+*.tmp
