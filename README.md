@@ -29,15 +29,20 @@
 
 > **Lihat sistem bekerja secara real-time!**
 
-[![Video Demonstrasi](https://img.shields.io/badge/▶️_Tonton_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](Video%20Demonstrasi%20Alat.mp4)
-
-**Video demonstrasi menampilkan:**
+**📹 Video demonstrasi menampilkan:**
 - ✅ Proses instalasi dan setup
 - ✅ Menjalankan publisher dan subscriber nodes
 - ✅ Interaksi keyboard dengan buzzer real-time
 - ✅ Troubleshooting common issues
 
-📁 **File:** `Video Demonstrasi Alat.mp4`
+**🎬 Cara menonton video:**
+1. Download file `Video Demonstrasi Alat.mp4` dari repository
+2. Atau kunjungi: [Releases](https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/releases) untuk download
+3. Atau clone repository dan buka file secara lokal
+
+📁 **File:** `Video Demonstrasi Alat.mp4` (tersedia di repository)
+
+> **Note:** GitHub tidak support video preview langsung. Untuk menonton, silakan download file atau lihat di website lokal.
 
 ---
 
@@ -579,9 +584,9 @@ Project ini menggunakan **MIT License**. Silakan gunakan untuk pembelajaran deng
 ### 💬 Get in Touch
 
 **Untuk pertanyaan atau diskusi:**
-- 📧 Email: [your_email@example.com]
-- 📱 WhatsApp: [Your Number]
-- 💬 GitHub Issues: [Open an Issue](https://github.com/USERNAME/repo/issues)
+- 📧 Email: danendra.122430130@student.itera.ac.id
+- 📱 WhatsApp: 081378384251
+- 💬 GitHub Issues: [Open an Issue](https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/issues)
 
 ### 🎓 Project Information
 
