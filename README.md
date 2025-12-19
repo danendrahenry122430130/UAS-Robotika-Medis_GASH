@@ -29,16 +29,12 @@
 
 > **Lihat sistem bekerja secara real-time!**
 
-### 📹 Video Preview
-
 <div align="center">
-  
-  **Klik gambar di bawah untuk menonton video demonstrasi:**
-  
-  [![Video Demo](https://img.youtube.com/vi/YOUTUBE_ID/maxresdefault.jpg)](https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/raw/main/Video%20Demonstrasi%20Alat.mp4)
-  
-  *Klik untuk download dan tonton video (2.1 MB)*
-  
+
+https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/assets/your-user-id/video-demonstrasi.mp4
+
+**📥 Jika video tidak tampil, download di sini:** [Video Demonstrasi Alat.mp4](https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/raw/main/Video%20Demonstrasi%20Alat.mp4)
+
 </div>
 
 **📹 Video demonstrasi menampilkan:**
@@ -47,11 +43,20 @@
 - ✅ Interaksi keyboard dengan buzzer real-time
 - ✅ Testing sistem dan troubleshooting
 
-**🎬 Alternatif menonton:**
-- **Download langsung:** [Video Demonstrasi Alat.mp4](https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/raw/main/Video%20Demonstrasi%20Alat.mp4)
-- **Clone repository** untuk akses offline
+---
 
-> **💡 Tips:** Upload video ke YouTube untuk auto-play di README, atau convert ke GIF untuk preview langsung!
+### 🎬 Cara Embed Video yang Benar di GitHub:
+
+Untuk video tampil langsung di README, ikuti langkah ini:
+
+1. **Buka issue baru** di repository: https://github.com/danendrahenry122430130/UAS-Robotika-Medis_GASH/issues/new
+2. **Drag & drop** file `Video Demonstrasi Alat.mp4` ke text box issue
+3. GitHub akan upload dan generate URL seperti: `https://github.com/user/repo/assets/123456/video.mp4`
+4. **Copy URL** yang muncul (jangan submit issue, bisa di-close)
+5. **Paste URL** itu ke README (ganti line yang ada `your-user-id` di atas)
+6. Video akan **auto-play** di README! 🎉
+
+> **💡 Alternative:** Upload video ke YouTube (unlisted) untuk embed yang lebih reliable
 
 ---
 
